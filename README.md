@@ -1,7 +1,5 @@
-# Discord.js v14 Slash Commands Music Bot
-![](https://komarev.com/ghpvc/?username=umutxyp&color=blue)
-
-
+## ABOUT V14.4 UPDATE / news: 2022, 26 DECEMBER
+-Added force stop command 
 ## ABOUT V14.3 UPDATE / news: 2022, 2 DECEMBER
 - Addeed Arabic language.
 - Added auto play command.
